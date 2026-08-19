@@ -1,6 +1,6 @@
 const LoginLeftSide = () => {
     return (
-      <div className="hidden md:flex w-1/2 min-h-screen bg-cyan-500 relative overflow-hidden border-r border-slate-200">
+      <div className="hidden md:flex w-1/2 min-h-screen bg-indigo-950 relative overflow-hidden border-r border-slate-200">
   
         {/* Decorative circle */}
         <div className="absolute -top-30 -left-30 w-72 h-72 bg-indigo-500/20 rounded-full blur-3xl" />
